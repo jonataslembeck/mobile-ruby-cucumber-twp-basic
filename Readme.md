@@ -1,1 +1,1 @@
-# Código base para automação Mobile com Cucumber, Ruby e Appium
+# Automação Básica para Treinar Mobile com Cucumber, Ruby e Appium
